@@ -20,20 +20,20 @@ li {
     
     background-color: darkgray;
     justify-content: end;
-    padding:7px;
+    padding:6.5px;
 }
 
 
 .mainheading h1{
     font-family: "Georgia",Serif;
-    font-size: 45px;
+    font-size: 44px;
     text-align: center;
     background-color: orange;
     padding:20px
 }
 
 create-blog form{
-    max-width: 400px;
+    max-width: 499px;
     margin: 0 auto;
   }
   .create-blog input,
